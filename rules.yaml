@@ -1,3 +1,4 @@
 rules:
+  - DOMAIN-KEYWORD,behance.net,一元机场
   - DOMAIN-KEYWORD,google,一元机场
   - MATCH,DIRECT
