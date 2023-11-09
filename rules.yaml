@@ -1,4 +1,5 @@
 rules:
+  - DOMAIN-KEYWORD,github.com,一元机场
   - DOMAIN-KEYWORD,raw.githubusercontent.com,一元机场
   - DOMAIN-KEYWORD,behance.net,一元机场
   - DOMAIN-KEYWORD,google,一元机场
